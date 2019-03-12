@@ -1,0 +1,1 @@
+sample rinkeby token: 0x7155c2079e00bb4bb98cfc845f6c2e0909b25d1a
